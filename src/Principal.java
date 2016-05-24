@@ -5,7 +5,7 @@
 
 /**
  *
- * @author BRAYAN
+ * @author ALBERTO
  */
 public class Principal {
     public static void main(String[] args) {

@@ -5,7 +5,7 @@
 
 /**
  *
- * @author BRAYAN
+ * @author ALBERTO
  */
 public class Carnivoros extends Animales{
     private String _Comen_Carne;
